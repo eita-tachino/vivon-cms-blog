@@ -12,7 +12,7 @@ const Home = ({ posts }) => {
   return (
     <div className="container mx-auto mb-8 px-10">
       <Head>
-        <title>VIVON Blog</title>
+        <title>VIVON-Blog</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="grid grid-cols-1 gap-12 gap-12 lg:grid-cols-12">
