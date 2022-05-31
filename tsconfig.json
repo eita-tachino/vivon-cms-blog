@@ -22,7 +22,7 @@
     "components/Categories.jsx",
     "components/PostWidget.jsx",
     "components/PostCard.jsx",
-    "pages/index.jsx",
+    "pages/index.js",
     "pages/api/comments.js"
   ],
   "exclude": ["node_modules"]

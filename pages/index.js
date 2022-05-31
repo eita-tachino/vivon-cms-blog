@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import Image from 'next/image'
 import { PostCard, Categories, PostWidget } from '../components/index'
 import { getPosts } from '../services/index'
 
